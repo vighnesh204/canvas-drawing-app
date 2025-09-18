@@ -23,4 +23,4 @@ Built with **HTML, CSS, JavaScript, and Bootstrap**.
 
 ## 🚀 Getting Started
 1. Clone this repo:  
-   git clone 
+   git clone https://github.com/vighnesh204/canvas-drawing-app.git
